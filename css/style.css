@@ -40,21 +40,21 @@ header,article,footer{
 header{
     margin-bottom:78px;
 }
-.main_Title{
+.main-Title{
     position: relative;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.main_Title img:nth-child(1){
+.main-Title img:nth-child(1){
     z-index: 1;
     position: absolute;
     /*margin-top:273px;
     margin-left:678px;
     margin-right:678px;*/
 }
-.main_Title img:nth-child(2){
+.main-Title img:nth-child(2){
     z-index: 2;
     position: absolute;
     top: 50%;
@@ -64,7 +64,7 @@ header{
     margin-left:830px;
     margin-right:830px;*/
 }
-.main_Title p{
+.main-Title p{
     color: #F5DF4D;
     margin-top:436px;
     font-family: "tvN EnjoystoriesBA";
@@ -73,14 +73,14 @@ header{
     font-weight: 700;
     line-height: normal;
 }
-.main_Description{
+.main-Description{
     display: flex;
     flex-direction: row;
     text-align: center;
     gap:14px;
     margin-bottom:102px;
 }
-.main_Description p{
+.main-Description p{
     color: #FFF;
 font-family: "GmarketSansMedium";
 font-size: 18px;
@@ -89,13 +89,13 @@ font-weight: 400;
 line-height: normal;
 }
 
-.main_Description strong{
+.main-Description strong{
     color: #FFF;
     font-family: "GmarketSansMedium";
     font-size: 24px;
     font-weight: 700;
 }
-.main_Description span{
+.main-Description span{
     color: rgba(252, 238, 33, 0.30);
 text-align: center;
 font-family: "GmarketSansMedium";
@@ -107,7 +107,7 @@ width: 46px;
 margin-top:20px;
 }
 
-.input_area{
+.input-area{
     display: flex;
     flex-direction: column;
     gap: 17px;
@@ -120,7 +120,7 @@ margin-top:20px;
     font-weight: 400;
     line-height: normal;
 }
-.input_text, .input_number{
+.input-text, .input-number{
     color: #FFF;
     text-align: center;
     font-family: "GmarketSansMedium";
@@ -144,10 +144,10 @@ input[type="text"], input[type="number"] {
     line-height: normal;
     word-break:normal;
 }
-.btn1{
+.btn-1{
     margin-bottom:147px;
 }
-.btn1 a{
+.btn-1 a{
     display: inline-flex;
     padding: 21px 49px;
     align-items: flex-start;
@@ -166,7 +166,7 @@ input[type="text"], input[type="number"] {
     width:auto;
     height: auto;
 }
-.btn1 img{
+.btn-1 img{
     align-items: flex-end;
     width: 64px;
     height: 72px;
@@ -174,7 +174,7 @@ input[type="text"], input[type="number"] {
     vertical-align: middle;
 }
 
-.sub_Description{
+.sub-Description{
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -182,7 +182,7 @@ input[type="text"], input[type="number"] {
     margin-bottom: 127px;;
 }
 
-.sub_Description p{
+.sub-Description p{
     color: #FFF;
     font-family: "GmarketSansMedium";
     font-size: 24px;
@@ -191,7 +191,7 @@ input[type="text"], input[type="number"] {
     line-height: normal;
 }
 
-.sub_Description strong{
+.sub-Description strong{
     color: #FFF;
     font-family: "GmarketSansMedium";
     font-size: 72px;
@@ -200,10 +200,10 @@ input[type="text"], input[type="number"] {
     line-height: normal;
 }
 
-.btn2{
+.btn-2{
     margin-bottom: 130px;
 }
-.btn2 a:nth-child(1){
+.btn-2 a:nth-child(1){
     display: inline-flex;
     padding: 21px 49px;
     align-items: flex-start;
@@ -221,7 +221,7 @@ input[type="text"], input[type="number"] {
     text-decoration-line:none;
     margin-right:18px;
 }
-.btn2 a:nth-child(2){
+.btn-2 a:nth-child(2){
     display: inline-flex;
     padding: 21px 49px;
     align-items: flex-start;
@@ -260,27 +260,27 @@ margin-bottom:116px;
         width: 100%;
         height: 100%
     }
-    .main_Title img:nth-child(1){
+    .main-Title img:nth-child(1){
         width: 267px;
         height: 53px;
     }
-    .main_Title img:nth-child(2){
+    .main-Title img:nth-child(2){
         width: 125px;
         height: 126px;
         margin:auto;
     }
-    .main_Title p{
+    .main-Title p{
         font-size:22px;
     }
 
-    .main_Description p{
+    .main-Description p{
         font-size:11px;
     }
-    .main_Description span{
+    .main-Description span{
         font-size: 48px;
         margin:auto;
     }
-    .input_text, .input_number{
+    .input-text, .input-number{
         font-size: 14px;
         
     }
@@ -289,7 +289,7 @@ margin-bottom:116px;
         height: 37px;
         font-size: 14px;
     }
-    .btn1 a{
+    .btn-1 a{
         width: 241px;
         height: 68px;
         justify-content: center;
@@ -300,17 +300,17 @@ margin-bottom:116px;
         background: #FCEE21;
         box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.50);
     }
-    .btn1 img{
+    .btn-1 img{
         width: 43px;
         height: auto;
     }
-    .sub_Description p{
+    .sub-Description p{
         font-size: 14px;
     }
-    .sub_Description strong{
+    .sub-Description strong{
         font-size: 24px;
     }
-    .btn2 a:nth-child(1){
+    .btn-2 a:nth-child(1){
         width: 150px;
         height: auto;
         padding: 22px 49px 21px 49px;
@@ -322,7 +322,7 @@ margin-bottom:116px;
         box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.50);
         font-size:14px;
     }
-    .btn2 a:nth-child(2){
+    .btn-2 a:nth-child(2){
         width: 54px;
         height: auto;
         padding: 22px 49px 21px 49px;
