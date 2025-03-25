@@ -27,19 +27,19 @@ estCamp 5기 프로그램에서 진행한 첫 번째 프로젝트입니다. HTML
 
 # 전체페이지
 
-![Screenshot 2025-03-25 at 17.01.54.JPG](Screenshot_2025-03-25_at_17.01.54.jpg)
+![전체화면.jpg)
 
 # 모바일화면
 
-![Screenshot 2025-03-25 at 17.02.43.JPG](Screenshot_2025-03-25_at_17.02.43.jpg)
+![모바일화면.jpg)
 
 # 모달전체화면
 
-![Screenshot 2025-03-25 at 17.02.56.JPG](Screenshot_2025-03-25_at_17.02.56.jpg)
+![모달전체화면.jpg)
 
 # 모달모바일화면
 
-![Screenshot 2025-03-25 at 17.03.06.JPG](Screenshot_2025-03-25_at_17.03.06.jpg)
+![모달 모바일화면.jpg)
 
 ## 📋 프로젝트 구조
 
