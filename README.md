@@ -27,22 +27,22 @@ estCamp 5기 프로그램에서 진행한 첫 번째 프로젝트입니다. HTML
 
 # 전체페이지
 
-![전체화면.jpg)
+![Image](https://github.com/user-attachments/assets/d4860181-c419-4d2a-b28e-9a4000e63e3a)
 
 # 모바일화면
 
-![모바일화면.jpg)
+![Image](https://github.com/user-attachments/assets/3f1564f3-5676-40e4-bee2-e3f90a5d3ec7)
 
 # 모달전체화면
 
-![모달전체화면.jpg)
+![Image](https://github.com/user-attachments/assets/4ad4e748-1be6-4fc8-b60f-7e22f1fa3957)
 
 # 모달모바일화면
 
-![모달 모바일화면.jpg)![Image](https://github.com/user-attachments/assets/d4860181-c419-4d2a-b28e-9a4000e63e3a)
-![Image](https://github.com/user-attachments/assets/3f1564f3-5676-40e4-bee2-e3f90a5d3ec7)
-![Image](https://github.com/user-attachments/assets/4ad4e748-1be6-4fc8-b60f-7e22f1fa3957)
 ![Image](https://github.com/user-attachments/assets/cc291f57-9e06-4436-a72b-14f6f91415b1)
+
+
+
 
 ## 📋 프로젝트 구조
 
