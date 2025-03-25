@@ -1,11 +1,10 @@
 # EstFeCamp_Project1
 
-Status: Not started
 날짜: 2025년 3월 25일
 
 ## 📝 프로젝트 소개
 
-estCamp 5기 프로그램에서 진행한 첫 번째 프로젝트입니다. HTML과 CSS를 사용하여 제작했습니다.
+HTML과 CSS를 사용하여 제작했습니다.
 
 ## 🛠️ 사용 기술
 
